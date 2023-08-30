@@ -43,5 +43,5 @@
     "postcss": "^8.4.28",
     "tailwindcss": "^3.3.3"
   },
-  "homepage": "http://hyun812.github.io/tailwind-practice/tailwind"
+  "homepage": "http://hyun812.github.io/tailwind-practice"
 }
