@@ -6,9 +6,9 @@ import keyboard from '../img/keyboard.png'
 
 const Content = () => {
     return (
-        <div className='mt-[10%] flex flex-col items-center justify-center'>
+        <div className='flex flex-col items-center pt-32'>
             <div>
-                <img src={logo}></img>
+                <img src={logo} className='w-60 h-20'></img>
             </div>
             <div className='p-6 w-full flex flex-col items-center'>
                 <div className='hover:shadow-md h-14 w-3/4 max-w-[590px] flex items-center px-3 pt-1 border-solid border-2 rounded-full'>
@@ -17,9 +17,9 @@ const Content = () => {
                     <img className='w-6 h-5 mx-2' src={keyboard}></img>
                     <img className="w-6 h-6 mx-2" src='https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png'></img>
                 </div>
-                <div className='text-sm pt-4'>
+                <div className='text-xs pt-4'>
                     <button className='p-2 m-2 border-solid bg-gray-50'>Google 검색</button>
-                    <button className='p-2 m-2 border-solid bg-gray-50'>I'm Feeling Lucky</button>
+                    <button className='p-2 m-2 `border-solid bg-gray-50'>I'm Feeling Lucky</button>
                 </div>
             </div>
         </div>

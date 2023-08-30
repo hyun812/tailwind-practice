@@ -3,7 +3,7 @@ import dot from '../img/dotsnine.png'
 
 const Top = () => {
     return (
-        <div className="text-sm p-2 flex justify-between h-16">
+        <div className="text-xs p-2 flex justify-between h-16">
             <div className='flex justify-items-center '>
                 <button className='p-1 ml-4 mr-1'>Google 정보</button>
                 <button className='p-1 ml-1 mr-4'>스토어</button>

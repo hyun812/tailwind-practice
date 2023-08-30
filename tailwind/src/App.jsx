@@ -7,8 +7,10 @@ import Footer from './components/Footer';
 function App() {
   return(
     <>
-      <Top></Top>
-      <Content></Content>
+      <div className='h-auto min-h-full pb-28'>
+        <Top></Top>
+        <Content></Content>
+      </div>
       <Footer></Footer>
     </>
   )
