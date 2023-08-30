@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tailwind-practice/static/css/main.5bebaba4.css",
-    "main.js": "/tailwind-practice/static/js/main.b17ed06b.js",
-    "index.html": "/tailwind-practice/index.html",
-    "main.5bebaba4.css.map": "/tailwind-practice/static/css/main.5bebaba4.css.map",
-    "main.b17ed06b.js.map": "/tailwind-practice/static/js/main.b17ed06b.js.map"
+    "main.css": "/tailwind-practice/tailwind/static/css/main.5bebaba4.css",
+    "main.js": "/tailwind-practice/tailwind/static/js/main.b17ed06b.js",
+    "index.html": "/tailwind-practice/tailwind/index.html",
+    "main.5bebaba4.css.map": "/tailwind-practice/tailwind/static/css/main.5bebaba4.css.map",
+    "main.b17ed06b.js.map": "/tailwind-practice/tailwind/static/js/main.b17ed06b.js.map"
   },
   "entrypoints": [
     "static/css/main.5bebaba4.css",
